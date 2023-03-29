@@ -1,0 +1,29 @@
+{
+  "name": "Valentyna",
+  "surname": "Kovalenko",
+  "age": 37,
+  "weight": 52.50,
+  "course": "QA Automation",
+  "email": "vkovalenko@gmail.com",
+  "married": true,
+  "children": true,
+  "address": {
+    "country": "UA",
+    "city": "Kyiv"
+  },
+  "hobbies": [
+    "psychology",
+    "yoga",
+    "painting"
+  ],
+  "friends": [
+    {
+      "name": "Julia",
+      "surname": "Golovina"
+    },
+    {
+      "name": "Irina",
+      "surname": "Griychii"
+    }
+  ]
+}
