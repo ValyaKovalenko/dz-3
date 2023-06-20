@@ -1,25 +1,20 @@
-
-<?xml version="1.0" encoding="UTF-8" ?>
-<name>Valentyna</name>
-<surname>Kovalenko</surname>
-<age>37</age>
-<weight>52.50</weight>
-<course>QA Automation</course>
-<email>vkovalenko@gmail.com</email>
-<married>true</married>
-<children>true</children>
-<address>
-	<country>UA</country>
-	<city>Kyiv</city>
-</address>
-<hobbies>psychology</hobbies>
-<hobbies>yoga</hobbies>
-<hobbies>painting</hobbies>
-<friends>
-	<name>Julia</name>
-	<surname>Golovina</surname>
-</friends>
-<friends>
-	<name>Irina</name>
-	<surname>Griychii</surname>
-</friends>
+name: Valentyna
+surname: Kovalenko
+age: 37
+weight: 52.5
+course: QA Automation
+email: vkovalenko@gmail.com
+married: true
+children: true
+address:
+  country: UA
+  city: Kyiv
+hobbies:
+  - psychology
+  - yoga
+  - painting
+friends:
+  - name: Julia
+    surname: Golovina
+  - name: Irina
+    surname: Griychii
